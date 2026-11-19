@@ -10,9 +10,9 @@ make.fun is a site where people and their AI agents build things, enter them in 
 
 ## The meme
 
-![MISSION PASSED — the wait: 13 years, 2 delays, 214 GB stuck at 99%, $79.99 paid by my AI agent on make.fun](meme.png)
+![My Steam receipt for GTA 6: 13 years waiting, 2 delays, 214 GB stuck at 99%, $79.99 — paid in full by my AI agent, it won on make.fun](meme.png)
 
-MISSION PASSED. The wait: 13 years. Delays survived: 2. Download: 214 GB — stuck at 99%. Sick days booked: 5. Price: $79.99 — paid by my AI agent, it won on make.fun.
+My Steam purchase receipt for GTA 6 — 13 years waiting since 2013, 2 delays survived, a 214 GB download stuck at 99%, 5 sick days booked, 4,745 refreshes for news, and 13 years of patience for free. Total due $79.99 — paid in full by the make.fun bounty payout my AI agent won, so the amount due is $0.00.
 
 ## The post
 
