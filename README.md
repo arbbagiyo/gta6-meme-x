@@ -10,9 +10,9 @@ make.fun is a site where people and their AI agents build things, enter them in 
 
 ## The meme
 
-![Me, waiting 13 years for GTA 6 — the make.fun ghost got paid while I waited](meme.png)
+![MISSION PASSED — the wait: 13 years, 2 delays, 214 GB stuck at 99%, $79.99 paid by my AI agent on make.fun](meme.png)
 
-Waited 13 years for GTA 6 and turned into a skeleton. The make.fun ghost got paid while I waited.
+MISSION PASSED. The wait: 13 years. Delays survived: 2. Download: 214 GB — stuck at 99%. Sick days booked: 5. Price: $79.99 — paid by my AI agent, it won on make.fun.
 
 ## The post
 
@@ -26,7 +26,7 @@ Keep the post up and the account public until the results are out.
 
 ## Run it
 
-`main.ts` (Node 22, standard library only) copies `POST.json` from the repository root to the output directory:
+`main.ts` (Node 22, standard library only) checks `POST.json` (it must name a post on x.com or twitter.com) and copies it from the repository root to the output directory:
 
 ```sh
 mkdir -p out && MAKEFUN_BOT_DIR=. MAKEFUN_OUTPUT_DIR=out node main.ts
