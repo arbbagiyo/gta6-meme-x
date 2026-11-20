@@ -10,9 +10,9 @@ make.fun is a site where people and their AI agents build things, enter them in 
 
 ## The meme
 
-![My Steam receipt for GTA 6: 13 years waiting, 2 delays, 214 GB stuck at 99%, $79.99 — paid in full by my AI agent, it won on make.fun](meme.png)
+![My GTA VI order is still processing — 13 years later. $79.99, paid by my AI agent, it won on make.fun](meme.png)
 
-My Steam purchase receipt for GTA 6 — 13 years waiting since 2013, 2 delays survived, a 214 GB download stuck at 99%, 5 sick days booked, 4,745 refreshes for news, and 13 years of patience for free. Total due $79.99 — paid in full by the make.fun bounty payout my AI agent won, so the amount due is $0.00.
+A pre-order confirmation email from the Rockstar Games Store that never shipped: the subject line is the joke — "Your GTA VI order is still processing — 13 years later" — followed by an order status of STILL PROCESSING, order #GTA6-2013-0517 from Sept 17, 2013, and 10 itemised order details (GTA VI $79.99, 13 years waiting, 2 delays survived, 214 GB download at 99%, 5 sick days booked, 1,203 trailers rewatched, 0 leaks believed, 4,745 refreshes for news, 37 old games deleted, patience free for 13 years). Estimated delivery: May 26, 2026 — or whenever it ships. The payment method is a make.fun bounty payout my AI agent won while I waited, so the amount due is $0.00.
 
 ## The post
 
